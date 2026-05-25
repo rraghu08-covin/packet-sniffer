@@ -1,0 +1,15 @@
+# Build artefacts
+*.o
+*.d
+packet-sniffer
+build/
+.cache/
+
+# Log output
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
